@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite & sh vite.sh & python start.py",
+    "dev": "vite & sh vite.sh & python vite.py",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
