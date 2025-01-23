@@ -1,0 +1,11 @@
+.ChooseState{
+    grid-area: 2/1/3/2;
+
+    display: flex;
+    flex-direction: column;
+}
+button{
+    margin: 5px;
+    background-color: lightslategrey;
+    color: black;
+}

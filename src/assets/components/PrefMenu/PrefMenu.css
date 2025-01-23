@@ -1,0 +1,16 @@
+.PrefMenu{
+    background: antiquewhite;
+    color: black;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr,1fr;    
+
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.Title {
+    grid-area: 1 / 1 / 2 / 7;
+    text-align: center;
+}  
